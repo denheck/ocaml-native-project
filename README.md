@@ -1,6 +1,6 @@
 # OCaml Example Project
 
-A project skeleton for writing OCaml programs
+A project skeleton for writing OCaml programs compiled to native executables
 
 ## Quick Start
 
